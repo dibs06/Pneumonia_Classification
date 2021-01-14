@@ -6,14 +6,14 @@ Pneumonia detection from the Chest X-ray data
    1. Open .ipynb file in Colab
     
    2. Download dataset from [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/download) in Goggle Colab 
-    
-          
+               
    Go to Your Account and click on Create New API Token
-        A file named kaggle.json will get downloaded containing your username and token key
-        
+   
+   A file named kaggle.json will get downloaded containing your username and token key
+   
    Create a folder named Kaggle where we will be storing our Kaggle datasets
-        
-   Upload your kaggle.json file into Kaggle folder
+  
+  Upload your kaggle.json file into Kaggle folder
         
    Run the following code to provide the config path to kaggle.json
          
