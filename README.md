@@ -21,4 +21,9 @@ Pneumonia detection from the Chest X-ray data
      os.environ['KAGGLE_CONFIG_DIR'] = "/content/gdrive/My Drive/Kaggle"# /content/gdrive/My Drive/Kaggle is the path where kaggle.json is present in the Google Drive 
      
   3. Go to kaggle and copy the API Command to download the dataset
-  ![](Image/Kaggle.png)
+  
+  ![](Kaggle.png)
+
+  
+  4. Just paste it in the colab shell and your download started soon
+        
