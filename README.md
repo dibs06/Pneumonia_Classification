@@ -25,5 +25,5 @@ Pneumonia detection from the Chest X-ray data
   ![](Kaggle.png)
 
   
-  4. Just paste it in the colab shell and your download started soon
+  4. Just paste it in the colab shell and your download will start soon
         
